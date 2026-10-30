@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brayantiglla/"><img src="https://img.shields.io/badge/LinkedIn-brayantiglla-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+  <a href="https://orcid.org/0000-0002-0789-2297"><img src="https://img.shields.io/badge/ORCID-0000--0002--0789--2297-A6CE39?logo=orcid&logoColor=white" alt="ORCID"></a>
+  </p>
 
 ---
 
